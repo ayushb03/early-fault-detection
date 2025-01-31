@@ -1,5 +1,3 @@
-## (are/will these features be crucial for the fault detection?)
-
 # Vibration Signal Analysis for Fault Detection
 
 ## 1. Time-Domain Features
